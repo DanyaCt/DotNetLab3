@@ -1,0 +1,45 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Events>
+  <Event>
+    <LogLevel>Warn</LogLevel>
+    <Source>Entities</Source>
+    <EventDateTime>10.08.2022 16:34:52</EventDateTime>
+    <Message>Non-nullable property must contain a non-null value</Message>
+  </Event>
+  <Event>
+    <LogLevel>Info</LogLevel>
+    <Source>Entities.LogEvent</Source>
+    <EventDateTime>09.08.2022 12:06:12</EventDateTime>
+    <Message>Created a new property</Message>
+  </Event>
+  <Event>
+    <LogLevel>Warn</LogLevel>
+    <Source>Entities</Source>
+    <EventDateTime>10.08.2022 5:12:49</EventDateTime>
+    <Message>Non-nullable property must contain a non-null value</Message>
+  </Event>
+  <Event>
+    <LogLevel>Info</LogLevel>
+    <Source>Files</Source>
+    <EventDateTime>12.08.2022 19:26:20</EventDateTime>
+    <Message>Created a new file</Message>
+  </Event>
+  <Event>
+    <LogLevel>Info</LogLevel>
+    <Source>Entities.LogEvent</Source>
+    <EventDateTime>11.08.2022 9:00:00</EventDateTime>
+    <Message>Deleted a property</Message>
+  </Event>
+  <Event>
+    <LogLevel>Warn</LogLevel>
+    <Source>Models</Source>
+    <EventDateTime>09.08.2022 13:14:06</EventDateTime>
+    <Message>Non-nullable property must contain a non-null value</Message>
+  </Event>
+  <Event>
+    <LogLevel>Error</LogLevel>
+    <Source>Program</Source>
+    <EventDateTime>09.08.2022 23:19:26</EventDateTime>
+    <Message>Argument exception</Message>
+  </Event>
+</Events>

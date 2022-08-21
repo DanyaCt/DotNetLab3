@@ -1,0 +1,24 @@
+Info
+Entities
+10.09.2021 05:12:34
+Created a new file
+Error
+Logger
+11.09.2021 02:46:48
+Argument exception
+Error
+Factory
+09.08.2021 16:17:34
+Out of range exception
+Info
+Word
+10.08.2021 22:16:25
+Created a new file
+Error
+Menu
+10.08.2021 18:52:08
+Out of range exception
+Info
+Factory
+09.08.2021 20:47:19
+Created a new file
