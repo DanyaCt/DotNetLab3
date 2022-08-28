@@ -10,12 +10,6 @@ namespace DotNetLab3.Logger
             var text = $"{logEvent.LogLevel}\n{logEvent.Source}" +
                 $"\n{logEvent.EventDateTime.DateTime}\n{logEvent.Message}";
 
-            if (!File.Exists(Path))
-            {
-                var createText = text + Environment.NewLine;
-                File.WriteAllText(Path, createText);
-            }
-
             var appendText = text + Environment.NewLine;
             File.AppendAllText(Path, appendText);
         }
